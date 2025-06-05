@@ -9,7 +9,7 @@ This bundle provides a simple way to integrate Symfony Messenger with the Conflu
 Open a command console, enter your project directory and execute:
 
 ```console
-$ composer require koco/avro-regy
+$ composer require jobcloud/avro-regy
 ```
 
 ### Applications that don't use Symfony Flex
